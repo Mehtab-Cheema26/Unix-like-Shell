@@ -35,7 +35,7 @@ Modern shells like Bash and Zsh are feature-rich, but often opaque to newcomers 
 
 ## 🚀 Demo  
 
-🎥 **Watch the demo video here** → [![Demo Video](https://img.youtube.com/vi/4UC3ax-Ah3Q/maxresdefault.jpg)](https://youtu.be/4UC3ax-Ah3Q)
+🎥 **Watch the demo video here**: [![Demo Video](https://img.youtube.com/vi/4UC3ax-Ah3Q/maxresdefault.jpg)](https://youtu.be/4UC3ax-Ah3Q)
 
 ---
 
