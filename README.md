@@ -52,10 +52,5 @@ Modern shells like Bash and Zsh are feature-rich, but often opaque to newcomers 
 - **Language**: C  
 - **OS/Platform**: Linux  
 - **Concepts**: Processes, Signals, IPC, Async I/O, Networking  
-
----
-
-## 📌 Citation  
-
-If you use or reference this project:  
+  
 
